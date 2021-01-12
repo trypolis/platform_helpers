@@ -2,7 +2,7 @@
 
 Python functions to ease cross-platform development.
 
-# Functoins.
+# Functions.
 
 ## tones
 
